@@ -1,0 +1,7 @@
+C:\Users\bruno\source\repos\Exercicio\Exercicio\obj\Release\net6.0\PubTmp\Out\Exercicio.exe
+C:\Users\bruno\source\repos\Exercicio\Exercicio\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\bruno\source\repos\Exercicio\Exercicio\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\bruno\source\repos\Exercicio\Exercicio\obj\Release\net6.0\PubTmp\Out\Exercicio.dll
+C:\Users\bruno\source\repos\Exercicio\Exercicio\obj\Release\net6.0\PubTmp\Out\Exercicio.deps.json
+C:\Users\bruno\source\repos\Exercicio\Exercicio\obj\Release\net6.0\PubTmp\Out\Exercicio.runtimeconfig.json
+C:\Users\bruno\source\repos\Exercicio\Exercicio\obj\Release\net6.0\PubTmp\Out\Exercicio.pdb
